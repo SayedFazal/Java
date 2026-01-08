@@ -1,3 +1,5 @@
+//Write a Java program to calculate the factorial of a given number using loops.
+
 import java.util.Scanner;
 public class R192311291{
   public static void main(String[] args){
