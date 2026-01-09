@@ -17,3 +17,5 @@ public class R192311291{
       System.out.println("Not an Armstrong Number");
   }
 }
+
+Input: 153
